@@ -1,29 +1,33 @@
-C:\Users\IBM_ADMIN\Google Drive\metawear\cordova\MetawearLED\platforms\android\ant-build\classes.dex : \
-C:\Users\IBM_ADMIN\Google Drive\metawear\cordova\MetawearLED\platforms\android\ant-build\classes\com\lisaseacat\metawear\led\MetawearLED$1.class \
-C:\Users\IBM_ADMIN\Google Drive\metawear\cordova\MetawearLED\platforms\android\ant-build\classes\com\lisaseacat\metawear\led\MetawearLED$2.class \
-C:\Users\IBM_ADMIN\Google Drive\metawear\cordova\MetawearLED\platforms\android\ant-build\classes\com\lisaseacat\metawear\led\MetawearLED.class \
-C:\Users\IBM_ADMIN\Google Drive\metawear\cordova\MetawearLED\platforms\android\ant-build\classes\com\lisaseacat\metawear\ledtest\BuildConfig.class \
-C:\Users\IBM_ADMIN\Google Drive\metawear\cordova\MetawearLED\platforms\android\ant-build\classes\com\lisaseacat\metawear\ledtest\HelloCordova.class \
-C:\Users\IBM_ADMIN\Google Drive\metawear\cordova\MetawearLED\platforms\android\ant-build\classes\com\lisaseacat\metawear\ledtest\R$array.class \
-C:\Users\IBM_ADMIN\Google Drive\metawear\cordova\MetawearLED\platforms\android\ant-build\classes\com\lisaseacat\metawear\ledtest\R$attr.class \
-C:\Users\IBM_ADMIN\Google Drive\metawear\cordova\MetawearLED\platforms\android\ant-build\classes\com\lisaseacat\metawear\ledtest\R$dimen.class \
-C:\Users\IBM_ADMIN\Google Drive\metawear\cordova\MetawearLED\platforms\android\ant-build\classes\com\lisaseacat\metawear\ledtest\R$drawable.class \
-C:\Users\IBM_ADMIN\Google Drive\metawear\cordova\MetawearLED\platforms\android\ant-build\classes\com\lisaseacat\metawear\ledtest\R$string.class \
-C:\Users\IBM_ADMIN\Google Drive\metawear\cordova\MetawearLED\platforms\android\ant-build\classes\com\lisaseacat\metawear\ledtest\R$xml.class \
-C:\Users\IBM_ADMIN\Google Drive\metawear\cordova\MetawearLED\platforms\android\ant-build\classes\com\lisaseacat\metawear\ledtest\R.class \
-C:\Users\IBM_ADMIN\Google Drive\metawear\cordova\MetawearLED\platforms\android\ant-build\classes\com\megster\cordova\ble\central\BLECentralPlugin$1.class \
-C:\Users\IBM_ADMIN\Google Drive\metawear\cordova\MetawearLED\platforms\android\ant-build\classes\com\megster\cordova\ble\central\BLECentralPlugin.class \
-C:\Users\IBM_ADMIN\Google Drive\metawear\cordova\MetawearLED\platforms\android\ant-build\classes\com\megster\cordova\ble\central\BLECommand.class \
-C:\Users\IBM_ADMIN\Google Drive\metawear\cordova\MetawearLED\platforms\android\ant-build\classes\com\megster\cordova\ble\central\Peripheral.class \
-C:\Users\IBM_ADMIN\Google Drive\metawear\cordova\MetawearLED\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerial$1.class \
-C:\Users\IBM_ADMIN\Google Drive\metawear\cordova\MetawearLED\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerial.class \
-C:\Users\IBM_ADMIN\Google Drive\metawear\cordova\MetawearLED\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerialService$AcceptThread.class \
-C:\Users\IBM_ADMIN\Google Drive\metawear\cordova\MetawearLED\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerialService$ConnectedThread.class \
-C:\Users\IBM_ADMIN\Google Drive\metawear\cordova\MetawearLED\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerialService$ConnectThread.class \
-C:\Users\IBM_ADMIN\Google Drive\metawear\cordova\MetawearLED\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerialService.class \
-C:\Users\IBM_ADMIN\Google Drive\metawear\cordova\MetawearLED\platforms\android\ant-build\classes\com\randdusing\bluetoothle\BluetoothLePlugin$1.class \
-C:\Users\IBM_ADMIN\Google Drive\metawear\cordova\MetawearLED\platforms\android\ant-build\classes\com\randdusing\bluetoothle\BluetoothLePlugin$2.class \
-C:\Users\IBM_ADMIN\Google Drive\metawear\cordova\MetawearLED\platforms\android\ant-build\classes\com\randdusing\bluetoothle\BluetoothLePlugin$3.class \
-C:\Users\IBM_ADMIN\Google Drive\metawear\cordova\MetawearLED\platforms\android\ant-build\classes\com\randdusing\bluetoothle\BluetoothLePlugin.class \
-C:\Users\IBM_ADMIN\Google Drive\metawear\cordova\MetawearLED\platforms\android\ant-build\classes\org\apache\cordova\api\Dummy.class \
-C:\Users\IBM_ADMIN\Google Drive\metawear\cordova\MetawearLED\platforms\android\ant-build\dexedLibs\classes-487851ec005605514f35b15e9e07a875.jar \
+C:\Users\Sidd\Documents\GitHub\metawear\platforms\android\ant-build\classes.dex : \
+C:\Users\Sidd\Documents\GitHub\metawear\platforms\android\ant-build\classes\com\lisaseacat\metawear\led\MetawearLED$1.class \
+C:\Users\Sidd\Documents\GitHub\metawear\platforms\android\ant-build\classes\com\lisaseacat\metawear\led\MetawearLED$2.class \
+C:\Users\Sidd\Documents\GitHub\metawear\platforms\android\ant-build\classes\com\lisaseacat\metawear\led\MetawearLED.class \
+C:\Users\Sidd\Documents\GitHub\metawear\platforms\android\ant-build\classes\com\lisaseacat\metawear\ledtest\BuildConfig.class \
+C:\Users\Sidd\Documents\GitHub\metawear\platforms\android\ant-build\classes\com\lisaseacat\metawear\ledtest\HelloCordova.class \
+C:\Users\Sidd\Documents\GitHub\metawear\platforms\android\ant-build\classes\com\lisaseacat\metawear\ledtest\R$array.class \
+C:\Users\Sidd\Documents\GitHub\metawear\platforms\android\ant-build\classes\com\lisaseacat\metawear\ledtest\R$attr.class \
+C:\Users\Sidd\Documents\GitHub\metawear\platforms\android\ant-build\classes\com\lisaseacat\metawear\ledtest\R$dimen.class \
+C:\Users\Sidd\Documents\GitHub\metawear\platforms\android\ant-build\classes\com\lisaseacat\metawear\ledtest\R$drawable.class \
+C:\Users\Sidd\Documents\GitHub\metawear\platforms\android\ant-build\classes\com\lisaseacat\metawear\ledtest\R$string.class \
+C:\Users\Sidd\Documents\GitHub\metawear\platforms\android\ant-build\classes\com\lisaseacat\metawear\ledtest\R$xml.class \
+C:\Users\Sidd\Documents\GitHub\metawear\platforms\android\ant-build\classes\com\lisaseacat\metawear\ledtest\R.class \
+C:\Users\Sidd\Documents\GitHub\metawear\platforms\android\ant-build\classes\com\megster\cordova\ble\central\BLECentralPlugin$1.class \
+C:\Users\Sidd\Documents\GitHub\metawear\platforms\android\ant-build\classes\com\megster\cordova\ble\central\BLECentralPlugin.class \
+C:\Users\Sidd\Documents\GitHub\metawear\platforms\android\ant-build\classes\com\megster\cordova\ble\central\BLECommand.class \
+C:\Users\Sidd\Documents\GitHub\metawear\platforms\android\ant-build\classes\com\megster\cordova\ble\central\Peripheral.class \
+C:\Users\Sidd\Documents\GitHub\metawear\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerial$1.class \
+C:\Users\Sidd\Documents\GitHub\metawear\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerial.class \
+C:\Users\Sidd\Documents\GitHub\metawear\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerialService$AcceptThread.class \
+C:\Users\Sidd\Documents\GitHub\metawear\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerialService$ConnectedThread.class \
+C:\Users\Sidd\Documents\GitHub\metawear\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerialService$ConnectThread.class \
+C:\Users\Sidd\Documents\GitHub\metawear\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerialService.class \
+C:\Users\Sidd\Documents\GitHub\metawear\platforms\android\ant-build\classes\com\randdusing\bluetoothle\BluetoothLePlugin$1.class \
+C:\Users\Sidd\Documents\GitHub\metawear\platforms\android\ant-build\classes\com\randdusing\bluetoothle\BluetoothLePlugin$2.class \
+C:\Users\Sidd\Documents\GitHub\metawear\platforms\android\ant-build\classes\com\randdusing\bluetoothle\BluetoothLePlugin$3.class \
+C:\Users\Sidd\Documents\GitHub\metawear\platforms\android\ant-build\classes\com\randdusing\bluetoothle\BluetoothLePlugin.class \
+C:\Users\Sidd\Documents\GitHub\metawear\platforms\android\ant-build\classes\org\apache\cordova\api\Dummy.class \
+C:\Users\Sidd\Documents\GitHub\metawear\platforms\android\ant-build\dexedLibs\classes-d8becb2a6b6c332ee64eef0d54874762.jar \
+C:\Users\Sidd\Documents\GitHub\metawear\platforms\android\ant-build\dexedLibs\androidplot-core-0.6.2-SNAPSHOT-4a9461fa73f36fd486dfa4394fe30606.jar \
+C:\Users\Sidd\Documents\GitHub\metawear\platforms\android\ant-build\dexedLibs\android-support-v4-80f63460db83ab2785641dc9837b249f.jar \
+C:\Users\Sidd\Documents\GitHub\metawear\platforms\android\ant-build\dexedLibs\metawear-bef25b77e56644488130417f733c194b.jar \
+C:\Users\Sidd\Documents\GitHub\metawear\platforms\android\ant-build\dexedLibs\nrf-logger-v1.2-2563b0e9ddfcf16b9641fee872c8299c.jar \
